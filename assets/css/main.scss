@@ -35,11 +35,11 @@ $max-content-width: {{ site.max_width }};
 }
 
 .keynote-card {
-  background-color: white;
+  // background-color: white;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  max-width: 280px;
+  max-width: 250px;
   text-align: center;
   transition: transform 0.2s ease-in-out;
 }

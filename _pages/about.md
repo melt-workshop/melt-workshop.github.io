@@ -9,6 +9,11 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
+**📢 Announcements**
+* (May 23, 2025) Please feel free to contact the organizers at: [`melt-workshop@googlegroups.com`](mailto:melt-workshop@googlegroups.com)
+
+<hr/>
+
 Recent advances in large language models (LLMs) have led to a paradigm shift in the economy, society, and daily life, demonstrating remarkable capabilities for complex tasks, such as reasoning and multimodality. However, **these innovations remain largely centered around English and are unevenly distributed across languages, cultures, and values**.
 
 That is, linguistic and cultural inclusion is lacking in language models, mainly due to an imbalance of language sources used for training. While there are more than 7,000 languages in the world, most NLP research sheds light on a handful of high-resource languages ([Blasi et al., 2022](https://aclanthology.org/2022.acl-long.376/); [Qin et al., 2024](https://arxiv.org/abs/2404.04925); [Zhu et al., 2024](https://arxiv.org/abs/2411.11072)). For instance, only 7% and 17% of non-English tokens are incorporated into the pre-training data of GPT-3 ([Brown et al., 2020](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)) and BLOOM ([Scao et al., 2022](https://arxiv.org/abs/2211.05100)), respectively. Further, as we often rely on translation from English-centric datasets ([Jin et al., 2024](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00661/120915/KoBBQ-Korean-Bias-Benchmark-for-Question-Answering)) that predominantly reflect Western cultures ([Ahuja et al., 2023](https://aclanthology.org/2023.emnlp-main.258/)) to build multilingual benchmarks, these models naturally uphold social values close to North American and European cultures and neglect a wide array of languages and cultures ([Held et al., 2023](https://arxiv.org/abs/2311.08391); [AlKhamissi et al., 2024](https://aclanthology.org/2024.acl-long.671/); [Tao et al., 2024](https://doi.org/10.1093/pnasnexus/pgae346); [Xu et al., 2024](https://arxiv.org/abs/2410.12971); [Masoud et al., 2025](https://aclanthology.org/2025.coling-main.567/)).  
@@ -21,7 +26,7 @@ Addressing these limitations is essential to ensure that LLMs provide equal acce
 
 ### Venue
 
-The MELT workshop will co-located with COLM 2025, in Montreal, Canada. The exact room information will will be announced closer to the event date.
+The MELT workshop will be co-located with COLM 2025, in Montreal, Canada. The exact room information will will be announced closer to the event date.
 
 - **When:** October 10, 2025
 - **Where:** Palais des Congrès, Montreal, Canada
@@ -33,17 +38,16 @@ The MELT workshop will co-located with COLM 2025, in Montreal, Canada. The exact
 Please refer to our [Call for Papers](https://melt-workshop.github.io/cfp) for more details on paper submissions.
 All deadlines are 11:59 PM Anywhere on Earth (AoE).
 
-- Workshop Track Submission Deadline: June 23, 2025
-- Conference Track Submission Deadline: July 14, 2025
+- **Workshop Track Submission Deadline:** June 23, 2025
+- **Conference Track Submission Deadline:** July 14, 2025
 - Notification of Acceptance: July 21, 2025
 - Workshop Date: October 10, 2025
 
 <hr/>
 
-### Schedules
+### Tentative Schedules
 
 We will have 5 keynotes, 1 panel discussion, and a poster session.
-Please refer to the tentative schedules as follows:
 
 | Time                 | Event                      |
 |----------------------|----------------------------|
