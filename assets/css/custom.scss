@@ -7,9 +7,9 @@
   }
   
   .keynote-card {
-    background-color: #{$code-bg-color-light};
+    background-color: var(--global-code-bg-color);
     border-radius: 12px;
-    box-shadow: 0 2px 10px var(--global-distill-app-color);
+    box-shadow: 0 2px 10px var(--global-footer-text-color);
     overflow: hidden;
     max-width: 250px;
     text-align: center;
@@ -50,9 +50,9 @@
   }
   
   .organizer-card-small {
-    background-color: #{$code-bg-color-light};
+    background-color: var(--global-code-bg-color);
     border-radius: 10px;
-    box-shadow: 0 1px 5px var(--global-distill-app-color);
+    box-shadow: 0 1px 5px var(--global-footer-text-color);
     overflow: hidden;
     width: 160px;
     text-align: center;
