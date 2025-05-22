@@ -22,4 +22,5 @@ nav_order: 2
 | 04:00 PM - 05:00 PM | Poster Session            |    |
 | 05:00 PM - 05:10 PM | Awards and Closing Remarks |    |
 {: .table}
+{: .table-light}
 {: .table-striped}

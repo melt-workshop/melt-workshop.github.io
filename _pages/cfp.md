@@ -20,11 +20,13 @@ We welcome papers on the following topics, including but not limited to:
 
 We accept submissions under two tracks: Workshop Track and Conference Track.
 
+Submission links: _TBA_
+
 ---
 
 ### Workshop Track
 
-We welcome submissions of novel, unpublished work. We solicit long (up to 8 pages) and short (up to 4 pages), non-archival papers, with unlimited space for references and appendices. We also welcome the submissions of relevant work that has been recently published. Submissions must include a statement addressing broader impacts and ethical considerations of their work, in line with COLM Code of Ethics, outside the page limit.
+We welcome submissions of **novel, unpublished work**. We solicit **long (up to 8 pages) and short (up to 4 pages), non-archival papers**, with unlimited space for references and appendices. Submissions must include a statement addressing broader impacts and ethical considerations of their work, in line with COLM Code of Ethics, outside the page limit.
 
 We will manage submissions through OpenReview. All papers will undergo a double-blind review process, and the final acceptance decisions will be made by the workshop organizers. The important dates are as follows:
 
@@ -35,6 +37,7 @@ We will manage submissions through OpenReview. All papers will undergo a double-
 
 ### Conference Track
 
-We also welcome submissions that have been accepted to the COLM 2025 main conference and are aligned with the themes of this workshop. These submissions will not be subject to a peer review process in this workshop. Instead, they will undergo a light-touch screening to ensure thematic relevance. Authors may submit the camera-ready version of their accepted paper (up to 9 pages, no anonymization required). The important dates are as follows:  
+We also welcome **submissions that have been accepted to the COLM 2025 main conference** and are aligned with the themes of this workshop. These submissions will not be subject to a review process in this workshop. Instead, they will undergo a light-touch screening to ensure thematic relevance. Authors may submit the camera-ready version of their accepted paper (up to 9 pages, no anonymization required). The important dates are as follows:  
+
 * **Paper submission deadline:** July 14, 2025 AoE  
 * **Notification of acceptance:** July 21, 2025 AoE
