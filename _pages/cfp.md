@@ -20,7 +20,7 @@ We welcome papers on the following topics, including but not limited to:
 
 We accept submissions under two tracks: Workshop Track and Conference Track.
 
-Submission links: _TBA_
+**Submission links:** _TBA_
 
 ---
 

@@ -17,7 +17,7 @@ nav_order: 2
 | 11:40 AM - 12:20 PM | Keynote 4                 |    |
 | 12:20 PM - 01:50 PM | Lunch Break               |    |
 | 01:50 PM - 02:30 PM | Keynote 5                 |    |
-| 02:30 PM - 03:30 PM | Panel Discussion          |    |
+| 02:30 PM - 03:30 PM | Panel Discussion          | Topic: Challenges and Opportunities <br/>in Building Global and Regional LLMs |
 | 03:30 PM - 04:00 PM | Coffee Break              |    |
 | 04:00 PM - 05:00 PM | Poster Session            |    |
 | 05:00 PM - 05:10 PM | Awards and Closing Remarks |    |
