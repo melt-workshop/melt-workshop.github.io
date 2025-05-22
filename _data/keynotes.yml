@@ -1,0 +1,24 @@
+- name: Shamsuddeen Hassan Muhammad
+  image: shamsuddeen_hassan_muhammad.jpg
+  affiliation: Imperial College London
+  position: Advanced Research Fellow and Google DeepMind Academic Fellow
+
+- name: Julia Kreutzer
+  image: julia_kreutzer.jpeg
+  affiliation: Cohere
+  position: Senior Research Scientist
+
+- name: Pedro Ortiz Suarez
+  image: pedro_ortiz_suarez.jpg
+  affiliation: Common Crawl Foundation
+  position: Senior Research Scientist
+
+- name: Monojit Choudhury
+  image: monojit_choudhury.jpg
+  affiliation: MBZUAI
+  position: Professor
+
+- name: Shixiang Shane Gu
+  image: shixiang_shane_gu.jpg
+  affiliation: Google Deepmind
+  position: Research Scientist

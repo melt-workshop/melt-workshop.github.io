@@ -1,0 +1,30 @@
+- name: Alice Oh
+  image: alice_oh.jpg
+  affiliation: KAIST
+  link: https://aliceoh9.github.io/
+
+- name: Antoine Bosselut
+  image: antonie_bosselut.jpeg
+  affiliation: EPFL
+  link: https://atcbosselut.github.io/
+
+- name: David Ifeoluwa Adelani
+  image: david_ifeoluwa_adelani.png
+  affiliation: MILA & McGill University
+  link: https://dadelani.github.io/
+
+- name: Hakim Hacid
+  image: hakim_hacid.jpeg
+  affiliation: TII
+  link: https://www.tii.ae/team/dr-hakim-hacid
+
+- name: Jung-woo Ha
+  image: jung_woo_ha.jpeg
+  affiliation: NAVER AI Lab
+  link: https://aidljwha.wordpress.com/
+
+- name: Scott A. Hale
+  image: scott_hale.jpg
+  affiliation: University of Oxford & Meedan
+  link: https://www.oii.ox.ac.uk/people/profiles/scott-hale/
+
