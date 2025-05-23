@@ -1,10 +1,12 @@
 <div class="keynote-card">
   <img src="{{ '/assets/img/' | append: keynote.image }}" alt="{{ keynote.name }}" class="keynote-photo">
-  {% if keynote.link %}
-    <h4><a href="{{ keynote.link }}" target="_blank" rel="noopener">{{ keynote.name }}</a></h4>
-  {% else %}
-    <h4>{{ keynote.name }}</h4>
-  {% endif %}
-  <p>{{ keynote.affiliation }}</p>
-  <p><em>{{ keynote.position }}</em></p>
+  <div class="keynote-info">
+    {% if keynote.link %}
+      <h4><a href="{{ keynote.link }}" target="_blank" rel="noopener">{{ keynote.name }}</a></h4>
+    {% else %}
+      <h4>{{ keynote.name }}</h4>
+    {% endif %}
+    <p>{{ keynote.affiliation }}</p>
+    <p><em>{{ keynote.position }}</em></p>
+  </div>
 </div>
