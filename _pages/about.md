@@ -5,7 +5,7 @@ permalink: /
 subtitle: Welcome to The 1st Workshop on Multilingual and Equitable Language Technologies (MELT) 👋
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 ---
 
