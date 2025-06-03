@@ -10,9 +10,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 **📢 Announcements**
-* (Jun 3, 2025) If you're interested in nominating yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/MYcXED7RLJDSqis88)!
-* (Jun 3, 2025) The submission portal is now open. Submit your paper [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT)!
-* (Jun 2, 2025) Stay tuned on our workshop via X (formerly, Twitter) [`@MeltWorkshop`](https://x.com/MeltWorkshop) and BlueSky [`@meltworkshop.bsky.social](https://bsky.app/profile/meltworkshop.bsky.social)!
+* (Jun 3, 2025) If you're interested in nominating yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/MYcXED7RLJDSqis88)
+* (Jun 3, 2025) The submission portal is now open; Submit your paper [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT)
+* (Jun 2, 2025) Stay tuned on our workshop via X (formerly, Twitter) [`@MeltWorkshop`](https://x.com/MeltWorkshop) and BlueSky [`@meltworkshop.bsky.social`](https://bsky.app/profile/meltworkshop.bsky.social)
 * (May 23, 2025) Feel free to contact the organizers at: [`melt-workshop@googlegroups.com`](mailto:melt-workshop@googlegroups.com)
 
 <hr/>
