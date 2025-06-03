@@ -20,7 +20,7 @@ We welcome papers on the following topics, including but not limited to:
 
 We accept submissions under two tracks: Workshop Track and Conference Track.
 
-**Submission links:** https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT
+**Submission links:** [https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT)
 
 ---
 
