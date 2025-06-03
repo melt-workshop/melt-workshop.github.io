@@ -20,13 +20,13 @@ We welcome papers on the following topics, including but not limited to:
 
 We accept submissions under two tracks: Workshop Track and Conference Track.
 
-**Submission links:** _TBA_
+**Submission links:** https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT
 
 ---
 
 ### Workshop Track
 
-We welcome submissions of **novel, unpublished work**. We solicit **long (up to 8 pages) and short (up to 4 pages), non-archival papers**, with unlimited space for references and appendices. Submissions must include a statement addressing broader impacts and ethical considerations of their work, in line with COLM Code of Ethics, outside the page limit.
+We welcome submissions of **novel, unpublished work**. We solicit **extended abstracts (up to 2 pages), short papers (up to 4 pages), and long papers (up to 8 pages)**; all are **non-archival**, with unlimited space for references and appendices. Submissions must include a statement addressing broader impacts and ethical considerations of their work, in line with COLM Code of Ethics, outside the page limit.
 
 We will manage submissions through OpenReview. All papers will undergo a double-blind review process, and the final acceptance decisions will be made by the workshop organizers. The important dates are as follows:
 
