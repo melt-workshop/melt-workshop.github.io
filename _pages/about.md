@@ -10,6 +10,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **📢 Announcements**
+* (Jun 23, 2025) The submission deadline for workshop track has been extended to **June 30** AoE.
 * (Jun 3, 2025) If you're interested in nominating yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/MYcXED7RLJDSqis88)
 * (Jun 3, 2025) The submission portal is now open; Submit your paper [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT)
 * (Jun 2, 2025) Stay tuned on our workshop via X (formerly, Twitter) [`@MeltWorkshop`](https://x.com/MeltWorkshop) and BlueSky [`@meltworkshop.bsky.social`](https://bsky.app/profile/meltworkshop.bsky.social)
@@ -41,7 +42,7 @@ The MELT workshop will be co-located with COLM 2025, in Montreal, Canada. The ex
 Please refer to our [Call for Papers](https://melt-workshop.github.io/cfp) for more details on paper submissions.
 All deadlines are 11:59 PM Anywhere on Earth (AoE).
 
-- **Workshop Track Submission Deadline:** June 23, 2025
+- **Workshop Track Submission Deadline:** ~~June 23, 2025~~June 30, 2025
 - **Conference Track Submission Deadline:** July 14, 2025
 - Notification of Acceptance: July 21, 2025
 - Workshop Date: October 10, 2025
