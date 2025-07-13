@@ -32,7 +32,7 @@ All submissions should use the [official COLM LaTeX style template](https://gith
 We will manage submissions through OpenReview. All papers will undergo a double-blind review process, and the final acceptance decisions will be made by the workshop organizers. The important dates are as follows:
 
 * **Paper submission deadline:** ~~June 23, 2025 AoE~~June 30, 2025 AoE
-* **Notification of acceptance:** July 21, 2025 AoE
+* **Notification of acceptance:** ~~July 21, 2025 AoE~~August 1, 2025 AoE
 
 ---
 
@@ -41,4 +41,4 @@ We will manage submissions through OpenReview. All papers will undergo a double-
 We also welcome **submissions that have been accepted to other journals/conferences within a year** (e.g., accepted to COLM 2025) and are aligned with the themes of this workshop. These submissions will not be subject to a review process in this workshop. Instead, they will undergo a light-touch screening to ensure thematic relevance. Authors may submit the camera-ready version of their accepted paper (up to 9 pages, no anonymization required). The important dates are as follows:  
 
 * **Paper submission deadline:** July 14, 2025 AoE  
-* **Notification of acceptance:** July 21, 2025 AoE
+* **Notification of acceptance:** ~~July 21, 2025 AoE~~August 1, 2025 AoE
