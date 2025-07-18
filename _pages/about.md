@@ -10,6 +10,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **📢 Announcements**
+* (Jul 18, 2025) The submission deadline for workshop track has been extended to **July 24** AoE.
 * (Jun 23, 2025) The submission deadline for workshop track has been extended to **June 30** AoE.
 * (Jun 3, 2025) If you're interested in nominating yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/MYcXED7RLJDSqis88)
 * (Jun 3, 2025) The submission portal is now open; Submit your paper [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/MELT)
@@ -43,7 +44,7 @@ Please refer to our [Call for Papers](https://melt-workshop.github.io/cfp) for m
 All deadlines are 11:59 PM Anywhere on Earth (AoE).
 
 - **Workshop Track Submission Deadline:** ~~June 23, 2025~~ June 30, 2025
-- **Conference Track Submission Deadline:** July 14, 2025
+- **Conference Track Submission Deadline:** ~~July 14, 2025~~ July 24, 2025
 - Notification of Acceptance: ~~July 21, 2025~~ August 1, 2025
 - Workshop Date: October 10, 2025
 
