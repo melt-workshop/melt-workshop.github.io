@@ -10,6 +10,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **📢 Announcements**
+* (Aug 3, 2025) The notification of acceptance of workshop/conference track papers has been postponed to **August 6** AoE. Apologies for the delay.
 * (Jul 18, 2025) The submission deadline for workshop track has been extended to **July 24** AoE.
 * (Jun 23, 2025) The submission deadline for workshop track has been extended to **June 30** AoE.
 * (Jun 3, 2025) If you're interested in nominating yourself as a potential reviewer for our workshop, please fill out this [form](https://forms.gle/MYcXED7RLJDSqis88)
