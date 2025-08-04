@@ -46,7 +46,7 @@ All deadlines are 11:59 PM Anywhere on Earth (AoE).
 
 - **Workshop Track Submission Deadline:** ~~June 23, 2025~~ June 30, 2025
 - **Conference Track Submission Deadline:** ~~July 14, 2025~~ July 24, 2025
-- Notification of Acceptance: ~~July 21, 2025~~ August 1, 2025
+- Notification of Acceptance: ~~July 21, 2025~~ August 6, 2025
 - Workshop Date: October 10, 2025
 
 <hr/>
