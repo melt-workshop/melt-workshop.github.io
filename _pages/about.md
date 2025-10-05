@@ -10,6 +10,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **📢 Announcements**
+* (Oct 5, 2025) The workshop will be held in **Rm 520D** on Oct 10.
 * (Aug 3, 2025) The notification of acceptance of workshop/conference track papers has been postponed to **August 6** AoE. Apologies for the delay.
 * (Jul 18, 2025) The submission deadline for workshop track has been extended to **July 24** AoE.
 * (Jun 23, 2025) The submission deadline for workshop track has been extended to **June 30** AoE.
@@ -35,7 +36,7 @@ Addressing these limitations is essential to ensure that LLMs provide equal acce
 The MELT workshop will be co-located with COLM 2025, in Montreal, Canada. The exact room information will will be announced closer to the event date.
 
 - **When:** October 10, 2025
-- **Where:** Palais des Congrès, Montreal, Canada
+- **Where:** Rm 520D, Palais des Congrès, Montreal, Canada
 
 <hr/>
 
