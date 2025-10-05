@@ -1,5 +1,7 @@
 ### [Pedro Ortiz Suarez](https://portizs.eu/)
 
-**Abstract:** _TBD_
+**Title:** Expanding the Language and Cultural Coverage of Common Crawl
+
+**Abstract:** The Common Crawl Foundation is a nonprofit organization that has been operating since 2007. Its mission is to preserve and freely share samples of the public Internet. Common Crawl is a key partner to the AI, ML, and NLP communities, as well as many other research communities. We thus believe that improving Common Crawl’s language diversity as well as its cultural and community coverage will directly benefit everyone from the AI to the crawling and archiving communities. In this talk we present past and current efforts driven by the Common Crawl Foundation and its partners in the research community, to improve language and cultural coverage of web archives, specially for underserved languages and communities, we also present the challenges that we have encounter as well as the impact that our efforts have already had for the AI, ML, and NLP projects.
 
 **Bio:** Pedro Ortiz Suarez is a senior research scientist at the Common Crawl Foundation known for his work on building large-scale multilingual corpora; he will talk about this complex process, and how to include very low-resource languages.
