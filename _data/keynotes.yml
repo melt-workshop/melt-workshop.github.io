@@ -10,11 +10,11 @@
   position: Senior Research Scientist
   link: https://portizs.eu/
 
-# - name: 
-#   image: 
-#   affiliation: 
-#   position: 
-#   link: 
+- name: Imanol Schlag
+  image: imanol_schlag.png
+  affiliation: ETH AI Center
+  position: Research Scientist
+  link: https://ischlag.github.io/
 
 - name: Shixiang Shane Gu
   image: shixiang_shane_gu.jpg

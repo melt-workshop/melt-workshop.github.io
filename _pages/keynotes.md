@@ -21,19 +21,19 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
 
-  # - align: left
-  #   image: 
-  #   content: 
-  #   image_circular: true # crops the image to make it circular
-  #   more_info:
-
   - align: left
+    image: imanol_schlag.png
+    content: imanol_schlag.md
+    image_circular: true # crops the image to make it circular
+    more_info:
+
+  - align: right
     image: shixiang_shane_gu.jpg
     content: keynote_shane.md
     image_circular: true # crops the image to make it circular
     more_info:
 
-  - align: right
+  - align: left
     image: julia_kreutzer.jpeg
     content: keynote_julia.md
     image_circular: true # crops the image to make it circular
