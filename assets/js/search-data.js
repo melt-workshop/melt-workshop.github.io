@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/keynotes/";
           },
+        },{id: "nav-accepted-submissions",
+          title: "Accepted Submissions",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/papers/";
+          },
         },{
       id: 'light-theme',
       title: 'Change theme to light',
