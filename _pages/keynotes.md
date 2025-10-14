@@ -23,7 +23,7 @@ profiles:
 
   - align: left
     image: imanol_schlag.png
-    content: imanol_schlag.md
+    content: keynote_imanol.md
     image_circular: true # crops the image to make it circular
     more_info:
 
